@@ -16,7 +16,6 @@ class StorageTest extends Test {
         virtualRouter()
         vyos()
         kvm()
-        flatNetwork()
         securityGroup()
     }
 
